@@ -1,4 +1,4 @@
-# show_img_hist
+# show_img_hist YU
 
 - an example of streamlit to show the histogram of an image
 
